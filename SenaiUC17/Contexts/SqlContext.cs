@@ -17,6 +17,7 @@ namespace SenaiUC17.Contexts
             }
         }
         public DbSet<Livro> Livros { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
 
     }
 }
