@@ -1,0 +1,6 @@
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\bin\Debug\net6.0\CoverletSourceRootsMapping
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.AssemblyReference.cache
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfoInputs.cache
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.AssemblyInfo.cs
+D:\Reader\Faculdade\SENAI\ProjetoApi\Senai\TesteIntegracao\obj\Debug\net6.0\TesteIntegracao.csproj.CoreCompileInputs.cache
